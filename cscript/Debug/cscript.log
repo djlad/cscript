@@ -1,0 +1,7 @@
+﻿  CScript.cpp
+c:\users\base\source\repos\cscript\cscript\cscript.h(9): error C3646: 'readFile': unknown override specifier
+c:\users\base\source\repos\cscript\cscript\cscript.h(9): error C2059: syntax error: '('
+c:\users\base\source\repos\cscript\cscript\cscript.h(9): error C2238: unexpected token(s) preceding ';'
+  main.cpp
+c:\users\base\source\repos\cscript\cscript\main.cpp(18): error C3861: 'readFile': identifier not found
+  Generating Code...
